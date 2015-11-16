@@ -59,6 +59,9 @@ header ul li ul li {
 #main ul dl{
  margin: 0;
 }
+#main p{
+   margin-top: 0px;
+}
 aside{
 	background-color:gray;
 	border-radius:15px;
