@@ -41,11 +41,12 @@ header ul li ul {
 li:hover ul{
 	display: block;
 	position: fixed;
+	border: 1px solid gray;
 } 
 header ul li ul li {
     float: none;
    }
-main {
+#main {
 	font-family:arial;
 }
 aside{
@@ -60,7 +61,7 @@ p{
 }
 #calculator table{
 	border-style:none;
-   margin: auto;
+   margin: 0px auto;
    align: center;
   }
  #calculator button{
