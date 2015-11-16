@@ -20,11 +20,11 @@ header #logo{
    position: relative;
   }
   header h1{
-   margin: 40px;
+   margin: 40px 230px;
    float: none;
   }
   header nav{
-    margin: 35px 200px 0;
+    margin: 35px 192px 0;
   }
 header ul{
    margin-bottom: 0px;
@@ -49,12 +49,16 @@ header ul li ul li {
 #main {
 	font-family:arial;
 }
+#main h2 {
+	margin:0px;
+}
 aside{
 	background-color:gray;
 	border-radius:15px;
 	padding:10px;
 	float:right;
 	width:32%;
+	margin-left:10px;
 }
 p{
 	margin-bottom:0px;
