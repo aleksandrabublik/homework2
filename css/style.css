@@ -48,9 +48,16 @@ header ul li ul li {
    }
 #main {
 	font-family:arial;
+	margin:0px;
 }
 #main h2 {
 	margin:0px;
+}
+#main ul{
+	margin:0px;
+}
+#main ul dl{
+ margin: 0;
 }
 aside{
 	background-color:gray;
